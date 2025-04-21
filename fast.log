@@ -1,0 +1,21 @@
+
+04/21/2025-11:04:10.136108  [**] [1:10001:1] museum.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:45118 -> 211.252.141.89:80
+04/21/2025-11:04:11.255401  [**] [1:10002:1] customs.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:42400 -> 211.173.34.139:80
+04/21/2025-11:04:12.875631  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:51706 -> 52.18.144.254:80
+04/21/2025-11:04:14.274541  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:54838 -> 110.11.116.252:80
+04/21/2025-11:04:15.358731  [**] [1:10005:1] ftc.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:33288 -> 116.67.36.13:80
+04/21/2025-11:04:16.460245  [**] [1:10006:1] cha.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:60572 -> 116.67.83.151:80
+04/21/2025-11:04:17.641528  [**] [1:10007:1] mof.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:36840 -> 27.101.220.8:80
+04/21/2025-11:04:18.715703  [**] [1:10008:1] moleg.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:44224 -> 27.101.212.129:80
+04/21/2025-11:04:21.376347  [**] [1:10009:1] assembly.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:36480 -> 211.46.92.199:80
+04/21/2025-11:04:22.579268  [**] [1:10010:1] kostat.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:54228 -> 27.101.222.79:80
+04/21/2025-11:04:24.776006  [**] [1:20001:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:54082 -> 223.130.192.247:443
+04/21/2025-11:04:25.959085  [**] [1:20002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:48972 -> 142.251.42.142:443
+04/21/2025-11:04:27.213147  [**] [1:20003:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:37506 -> 142.251.222.46:443
+04/21/2025-11:04:28.384539  [**] [1:20004:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:57526 -> 211.249.220.24:443
+04/21/2025-11:04:29.494055  [**] [1:20005:1] kakao.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:44674 -> 211.249.221.105:443
+04/21/2025-11:04:30.591256  [**] [1:20006:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:49208 -> 31.13.76.35:443
+04/21/2025-11:04:31.869884  [**] [1:20007:1] instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:32958 -> 31.13.76.174:443
+04/21/2025-11:04:33.230415  [**] [1:20008:1] twitter.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:60370 -> 172.66.0.227:443
+04/21/2025-11:04:34.742773  [**] [1:20009:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:45962 -> 44.240.158.19:443
+04/21/2025-11:04:36.312809  [**] [1:20010:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.215:38140 -> 52.94.236.248:443
